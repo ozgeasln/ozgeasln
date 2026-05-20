@@ -17,6 +17,8 @@ I am a computer engineering student who makes learning new technologies a daily 
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
       </td>
     </tr>
@@ -29,23 +31,16 @@ I am a computer engineering student who makes learning new technologies a daily 
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Systems & Databases</b></td>
+      <td align="center"><b>Core Concepts & Tools</b></td>
       <td align="center">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oop/oop-original.svg" width="40" height="40" alt="OOP"/>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeasln&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-</p>
 
 <br>
 
